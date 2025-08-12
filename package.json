@@ -31,7 +31,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "generate": "plop",
-    "start": "nodemon repeatString.js"
+    "start": "nodemon ./03_reverseString/reverseString.js"
   },
   "eslintConfig": {
     "root": true
